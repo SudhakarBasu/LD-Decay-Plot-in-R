@@ -1,0 +1,23 @@
+# R Session Data
+.RData
+.Rhistory
+.Rapp.history
+
+# R Environment Variables
+.Renviron
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Output files (optional - remove if you want to track PDFs)
+# *.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
