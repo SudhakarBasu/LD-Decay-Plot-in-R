@@ -1,0 +1,11 @@
+{
+    "r.rpath.windows": "C:\\Program Files\\R\\R-4.5.2\\bin\\R.exe",
+    "r.rterm.windows": "C:\\Program Files\\R\\R-4.5.2\\bin\\R.exe",
+    "r.rterm.option": [
+        "--no-save",
+        "--no-restore"
+    ],
+    "r.libPaths": [
+        "C:/Users/basus/AppData/Local/R/win-library/4.5"
+    ]
+}
